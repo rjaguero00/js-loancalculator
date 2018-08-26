@@ -15,3 +15,7 @@
 #results {
     padding-top: 40px;
 }
+
+#loading, #results {
+    display: none;
+}
