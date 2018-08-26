@@ -4,7 +4,10 @@
     margin-left: 20px;
 }
 
-.jumbotron {
-    border-radius: 0.3rem
-    margin-bottom: 0;
+.display-4 {
+    font-family: 'Merriweather', serif;
+}
+
+.lead{
+    font-family: 'Noto Serif', serif;
 }
