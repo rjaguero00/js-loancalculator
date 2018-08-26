@@ -11,3 +11,7 @@
 .lead{
     font-family: 'Noto Serif', serif;
 }
+
+#results {
+    padding-top: 40px;
+}
