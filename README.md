@@ -7,4 +7,4 @@ Simple loan calculator that will help you determine the monthly payments on a lo
     -CSS
     -Javascript
     
-Live Site: https://rjaguero00.github.io/js-loancalculator/
+-Live Site: https://rjaguero00.github.io/js-loancalculator/
